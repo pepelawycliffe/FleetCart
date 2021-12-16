@@ -9,9 +9,9 @@ Digital/Downloadable Product<br>
 Bulk Product Import<br>
 SMS Module<br>
 Flash Sales<br>
-Newsletter subscription
-Product brands
-Product tags
+Newsletter subscription<br>
+Product brands<br>
+Product tags<br>
 SCA and 3D secure integration
 Advanced search suggestions
 Rich Snippets
