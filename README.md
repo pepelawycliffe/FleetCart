@@ -27,19 +27,19 @@ More Features<br><br>
 . Product Options<br>
 . Product Attributes<br>
 . Advanced Product Filtering<br>
-Guest Checkout<br>
-Customer Panel<br>
-Sales Analytics Chart<br>
-Search Log<br>
-Advanced System Report<br>
-Custom Static Page<br>
-Scheduled Special Product Price<br>
-Country, State, City, Zip Based Tax Configuration<br>
-Minimum Amount for Free Shipping<br>
-File Manager<br>
-Drag & Drop File Uploader<br>
-Custom CSS/JS<br>
-Custom 404 Page<br>
-SEO Optimized<br>
-Maintenance Mode<br>
-And More…<br>
+. Guest Checkout<br>
+. Customer Panel<br>
+. Sales Analytics Chart<br>
+. Search Log<br>
+. Advanced System Report<br>
+. Custom Static Page<br>
+. Scheduled Special Product Price<br>
+. Country, State, City, Zip Based Tax Configuration<br>
+. Minimum Amount for Free Shipping<br>
+. File Manager<br>
+. Drag & Drop File Uploader<br>
+. Custom CSS/JS<br>
+. Custom 404 Page<br>
+. SEO Optimized<br>
+. Maintenance Mode<br>
+. And More…<br>
