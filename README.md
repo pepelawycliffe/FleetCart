@@ -12,9 +12,9 @@ Flash Sales<br>
 Newsletter subscription<br>
 Product brands<br>
 Product tags<br>
-SCA and 3D secure integration
-Advanced search suggestions
-Rich Snippets
+SCA and 3D secure integration<br>
+Advanced search suggestions<br>
+Rich Snippets<br>
 Beautiful & Powerful Admin Panel
 Multiple Locales
 Multiple Countries
