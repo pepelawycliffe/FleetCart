@@ -4,29 +4,29 @@ FleetCart is a complete E-Commerce system to easily start your online E-Commerce
 
 
 More Features<br><br>
-12 Theme color for Storefront<br>
-Digital/Downloadable Product<br>
-Bulk Product Import<br>
-SMS Module<br>
-Flash Sales<br>
-Newsletter subscription<br>
-Product brands<br>
-Product tags<br>
-SCA and 3D secure integration<br>
-Advanced search suggestions<br>
-Rich Snippets<br>
-Beautiful & Powerful Admin Panel<br>
-Multiple Locales<br>
-Multiple Countries<br>
-Multiple Currencies<br>
-Third Party Integration for Updating Currency Rates<br>
-Scheduled Currency Rate Updating<br>
-Advanced Home Page Customization<br>
-Advanced Search<br>
-Algolia Search Engine Integration<br>
-Product Options<br>
-Product Attributes<br>
-Advanced Product Filtering<br>
+. 12 Theme color for Storefront<br>
+. Digital/Downloadable Product<br>
+. Bulk Product Import<br>
+. SMS Module<br>
+. Flash Sales<br>
+. Newsletter subscription<br>
+. Product brands<br>
+. Product tags<br>
+. SCA and 3D secure integration<br>
+. Advanced search suggestions<br>
+. Rich Snippets<br>
+. Beautiful & Powerful Admin Panel<br>
+. Multiple Locales<br>
+. Multiple Countries<br>
+. Multiple Currencies<br>
+. Third Party Integration for Updating Currency Rates<br>
+. Scheduled Currency Rate Updating<br>
+. Advanced Home Page Customization<br>
+. Advanced Search<br>
+. Algolia Search Engine Integration<br>
+. Product Options<br>
+. Product Attributes<br>
+. Advanced Product Filtering<br>
 Guest Checkout<br>
 Customer Panel<br>
 Sales Analytics Chart<br>
