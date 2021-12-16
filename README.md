@@ -24,14 +24,14 @@ Scheduled Currency Rate Updating<br>
 Advanced Home Page Customization<br>
 Advanced Search<br>
 Algolia Search Engine Integration<br>
-Product Options
-Product Attributes
-Advanced Product Filtering
-Guest Checkout
-Customer Panel
-Sales Analytics Chart
-Search Log
-Advanced System Report
+Product Options<br>
+Product Attributes<br>
+Advanced Product Filtering<br>
+Guest Checkout<br>
+Customer Panel<br>
+Sales Analytics Chart<br>
+Search Log<br>
+Advanced System Report<br>
 Custom Static Page
 Scheduled Special Product Price
 Country, State, City, Zip Based Tax Configuration
