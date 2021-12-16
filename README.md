@@ -43,3 +43,7 @@ More Features<br><br>
 . SEO Optimized<br>
 . Maintenance Mode<br>
 . And More…<br>
+
+Admin: 
+Email: admin@gmail.com
+Password: 123456
