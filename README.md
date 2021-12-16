@@ -44,6 +44,6 @@ More Features<br><br>
 . Maintenance Mode<br>
 . And More…<br>
 
-Admin: 
-Email: admin@gmail.com
-Password: 123456
+Admin: <br><br>
+Email: admin@gmail.com<br>
+Password: 123456<br>
