@@ -18,9 +18,9 @@ Rich Snippets<br>
 Beautiful & Powerful Admin Panel<br>
 Multiple Locales<br>
 Multiple Countries<br>
-Multiple Currencies
-Third Party Integration for Updating Currency Rates
-Scheduled Currency Rate Updating
+Multiple Currencies<br>
+Third Party Integration for Updating Currency Rates<br>
+Scheduled Currency Rate Updating<br>
 Advanced Home Page Customization
 Advanced Search
 Algolia Search Engine Integration
