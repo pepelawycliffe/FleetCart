@@ -15,9 +15,9 @@ Product tags<br>
 SCA and 3D secure integration<br>
 Advanced search suggestions<br>
 Rich Snippets<br>
-Beautiful & Powerful Admin Panel
-Multiple Locales
-Multiple Countries
+Beautiful & Powerful Admin Panel<br>
+Multiple Locales<br>
+Multiple Countries<br>
 Multiple Currencies
 Third Party Integration for Updating Currency Rates
 Scheduled Currency Rate Updating
