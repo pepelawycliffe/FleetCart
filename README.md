@@ -21,9 +21,9 @@ Multiple Countries<br>
 Multiple Currencies<br>
 Third Party Integration for Updating Currency Rates<br>
 Scheduled Currency Rate Updating<br>
-Advanced Home Page Customization
-Advanced Search
-Algolia Search Engine Integration
+Advanced Home Page Customization<br>
+Advanced Search<br>
+Algolia Search Engine Integration<br>
 Product Options
 Product Attributes
 Advanced Product Filtering
