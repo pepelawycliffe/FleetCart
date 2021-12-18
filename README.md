@@ -48,4 +48,6 @@ Admin: <br><br>
 Email: admin@gmail.com<br>
 Password: 123456<br>
 
-https://github.com/pepelawycliffe/FleetCart/blob/main/FleetCart-screenshot/01_preview1.jpg
+......................................................... Screenshots ....................................................
+<img src="https://github.com/pepelawycliffe/FleetCart/blob/main/FleetCart-screenshot/01_preview1.jpg" width="1000">
+
