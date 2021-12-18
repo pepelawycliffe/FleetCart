@@ -47,3 +47,5 @@ More Features<br><br>
 Admin: <br><br>
 Email: admin@gmail.com<br>
 Password: 123456<br>
+
+https://github.com/pepelawycliffe/FleetCart/blob/main/FleetCart-screenshot/01_preview1.jpg
